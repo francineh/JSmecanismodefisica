@@ -1,0 +1,5 @@
+Neste projeto damos uma introdução a programação orientada a objeto usando o javaScripit, o objetivo era testar o mecanismo de fisica e usar propriedades de gravidade para os objetos despencarem.
+foi usado variaveis constantes para acionar o mecanismo de fisica das bibliotecas matter.js.
+
+Este projeto foi utilizado para fins educacionais e profissionais.
+atenciosamente : Francine Hollweg
